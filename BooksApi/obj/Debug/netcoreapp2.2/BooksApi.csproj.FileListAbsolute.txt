@@ -1,0 +1,14 @@
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.deps.json
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.json
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.dev.json
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.dll
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.pdb
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csproj.CoreCompileInputs.cache
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorTargetAssemblyInfo.cache
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.dll
+/home/justcodelife/RiderProjects/BooksApi/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.pdb
